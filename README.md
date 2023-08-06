@@ -22,8 +22,3 @@
 - [x] Testing (Jest)
 
 ### and I´m ready to learn more! 👓
-
-### feel free to contact me at:
-- 📩 claudia.vasquez.as@gmail.com
-- 📞 +34 644-469-610
-- 💻 [linkedin.com/in/claudiavas/](https://linkedin.com/in/claudiavas/)
