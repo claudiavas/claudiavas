@@ -5,7 +5,7 @@
 ✔ JavaScript and TypeScript
 ✔ HTML, CSS, Flexbox, and Grid
 ✔ React and Component Libraries (Material UI and others)
-✔ Node.js, Express.js, Api Rest
+✔ Node.js, Express.js, and Api Rest
 ✔ MongoDB and Mongoose
 ✔ Visual Studio Code
 
