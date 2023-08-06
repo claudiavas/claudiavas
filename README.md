@@ -14,7 +14,8 @@
 
 ### have also worked with: 🛠
 ✔ Image and file management (Cloudinary)
-✔ Figma               
+✔ Figma
+✔ Postman
 ✔ Web tokens (JWT)
 ✔ Deployment in Cloud Services (RailWay)
 ✔ Email Sending (Brevo-SendInBlue)
