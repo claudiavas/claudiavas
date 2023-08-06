@@ -12,7 +12,7 @@
 ### and of course... 😎
 ✔ Git and Github
 
-### have also used: 🛠
+### have also worked with: 🛠
 ✔ Image and file management (Cloudinary)
 ✔ Figma               
 ✔ Web tokens (JWT)
