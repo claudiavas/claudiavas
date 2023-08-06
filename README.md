@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Imagen de Fondo Linkedln.png](https://github.com/mcvasquezas/mcvasquezas/blob/main/Imagen%20de%20Fondo%20Linkedln.png)
+![Imagen de Fondo Github.png](https://github.com/mcvasquezas/mcvasquezas/blob/b4f437f46a7fb1d4188afdb9c8a6fa58d8d2a96b/Imagen%20de%20Perfil%20Github.png)
 **mcvasquezas/mcvasquezas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
