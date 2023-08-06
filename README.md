@@ -23,4 +23,26 @@
 
 ### and I´m ready to learn more! 👓
 
-### <h3>Connect with me </h3> <a href="https://linkedin.com/in/www.linkedin.com/in/claudiavas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/claudiavas" height="30" width="40" /></a> 
+<style>
+  /* Estilo para la línea */
+  hr {
+    height: 1px;
+    background-color: #ccc;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  /* Estilo para el ícono */
+  .icon {
+    height: 5px; /* Ajusta el valor para cambiar el tamaño vertical */
+    width: 5px; /* Ajusta el valor para cambiar el tamaño horizontal */
+    margin-right: 5px; /* Ajusta el valor para agregar un espacio entre el ícono y el texto */
+  }
+</style>
+
+<!-- HTML -->
+<hr>
+<h3>Connect with me <a href="https://linkedin.com/in/www.linkedin.com/in/claudiavas" target="blank">
+  <img class="icon" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/claudiavas" />
+</a></h3>
