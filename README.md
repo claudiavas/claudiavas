@@ -2,7 +2,6 @@
 ### Hi there 👋 I’m Claudia, a Full Stack Developer
 
 ### ❤ love to work with:
-
 ✔ JavaScript and TypeScript
 ✔ HTML, CSS, Flexbox, and Grid
 ✔ React and Component Libraries (Material UI and others)
@@ -11,14 +10,14 @@
 ✔ Visual Studio Code
 
 ### and of course... 😎
-- [x] Git and Github
+✔ Git and Github
 
 ### have also used: 🛠
-- [x] Image and file management (Cloudinary)
-- [x] Figma               
-- [x] Web tokens (JWT)
-- [x] Deployment in Cloud Services (RailWay)
-- [x] Email Sending (Brevo-SendInBlue)
-- [x] Testing (Jest)
+✔ Image and file management (Cloudinary)
+✔ Figma               
+✔ Web tokens (JWT)
+✔ Deployment in Cloud Services (RailWay)
+✔ Email Sending (Brevo-SendInBlue)
+✔ Testing (Jest)
 
 ### and I´m ready to learn more! 👓
