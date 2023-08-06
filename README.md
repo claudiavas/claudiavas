@@ -3,12 +3,12 @@
 
 ### ❤ love to work with:
 
-- [x] JavaScript and TypeScript
-- [x] HTML, CSS, Flexbox, and Grid
-- [x] React and Component Libraries (Material UI and others)
-- [x] Node.js, Express.js, Api Rest
-- [x] MongoDB and Mongoose
-- [x] Visual Studio Code
+✔ JavaScript and TypeScript
+✔ HTML, CSS, Flexbox, and Grid
+✔ React and Component Libraries (Material UI and others)
+✔ Node.js, Express.js, Api Rest
+✔ MongoDB and Mongoose
+✔ Visual Studio Code
 
 ### and of course... 😎
 - [x] Git and Github
