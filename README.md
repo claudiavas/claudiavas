@@ -1,4 +1,4 @@
-![ImagendePerfil.png](https://github.com/claudiavas/claudiavas/blob/main/ImagendePerfil.png)
+![ImagenPerfilGithub.png](https://github.com/claudiavas/claudiavas/blob/main/ImagenPerfilGithub.png)
 
 ### Hi there 👋 I’m Claudia, a Full Stack Developer
 
