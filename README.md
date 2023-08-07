@@ -1,4 +1,4 @@
-![Imagen de Fondo Github.png](https://github.com/mcvasquezas/mcvasquezas/blob/b4f437f46a7fb1d4188afdb9c8a6fa58d8d2a96b/Imagen%20de%20Perfil%20Github%20(1).png)
+![ImagendePerfil.png](https://github.com/claudiavas/claudiavas/blob/main/ImagendePerfil.png)
 
 ### Hi there 👋 I’m Claudia, a Full Stack Developer
 
