@@ -1,26 +1,25 @@
 ![ImagenPerfilGithub.png](https://github.com/claudiavas/claudiavas/blob/main/ImagenPerfilGithub.png)
 
-### Hi there 👋 I’m Claudia, a Full Stack Developer
+### Hi there 👋 I'm Claudia, a CRM Technical Lead & Full Stack Developer
 
 ### ❤ love to work with:
+✔ CRM Architecture (Zoho CRM, Zoho One)
+✔ API Integrations & Automation
+✔ AI to automate systems (Claude API, LLMs)
 ✔ JavaScript and TypeScript
-✔ HTML, CSS, Flexbox, and Grid
-✔ React and Component Libraries (Material UI and others)
-✔ Node.js, Express.js, and Api Rest
-✔ MongoDB and Mongoose
-✔ Visual Studio Code
+✔ React, Node.js, Express.js
+✔ Python
 
 ### and of course... 😎
 ✔ Git and Github
 
 ### have also worked with: 🛠
-✔ Image and file management (Cloudinary)
-✔ Figma
-✔ Postman
-✔ Web tokens (JWT)
-✔ Deployment in Cloud Services (RailWay)
-✔ Email Sending (Brevo-SendInBlue)
-✔ Testing (Jest)
+✔ Google Sheets & Apps Script
+✔ Playwright & web scraping
+✔ MongoDB and SQL
+✔ Figma & Postman
+✔ Deployment in Cloud Services (Railway, Vercel)
+✔ Email platforms (Brevo, Zoho Campaigns)
 
 ### and I´m ready to learn more! 👓
 ___________________________
